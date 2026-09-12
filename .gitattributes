@@ -1,0 +1,13 @@
+# 统一换行符，避免 Windows / macOS 协作时整文件 diff
+* text=auto
+
+# 图片与文档按二进制处理
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.bmp binary
+*.ico binary
+*.pdf binary
+*.zip binary
